@@ -1,5 +1,0 @@
-{
-  "title": "Core Concepts",
-  "defaultOpen": true,
-  "pages": ["introduction", "databases", "prisma-in-your-stack", "beyond-prisma-orm"]
-}

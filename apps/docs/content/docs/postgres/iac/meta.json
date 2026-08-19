@@ -1,4 +1,0 @@
-{
-  "title": "Infrastructure as Code",
-  "pages": ["terraform", "pulumi"]
-}
